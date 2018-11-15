@@ -13,4 +13,4 @@ Instantly after deploying the honeypots, I received serveral attacks. While the 
 ![](honeypot.gif)
 
 # Any unresolved questions raised by the data collected
-Why are there so many attacks launched against port 8088?
+I do not have any unresolved questions.
