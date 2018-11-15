@@ -2,7 +2,7 @@
 Time Spent: **5** hours spent in total
 
 # Which Honeypot(s) you deployed
-I deployed Ubuntu - Dionaea with HTTP.
+I deployed Ubuntu - Dionaea, Ubuntu - Dionaea with HTTP, Suricata, and P0f.
 
 # Any issues you encountered
 During the installation of the MHN Admin Application, I encountered a repository that either did not exist or was made private. To correct this, I had to do some research and then update the install_hpfeeds.sh file with the correct repository name. 
